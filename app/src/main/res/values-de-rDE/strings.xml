@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConstraintLayoutIntro</string>
+
+    <string name="str_country_name">germany</string>
+    <string name="str_location_text_view">der Standort</string>
+    <string name="str_first_edit_text_hint">your location</string>
+    <string name="str_text_view_town">die Ortschaftasdfgh</string>
+    <string name="str_edit_text_town">your town</string>
+    <string name="str_button_cancel">Cancel</string>
+    <string name="str_button_confirm">confirm</string>
+    <string name="str_image_view_description">description</string>
+    <string name="str_image_view_two_description">description2</string>
+    <string name="str_about">Deutschland ist ein westeuropäisches Land mit einer Landschaft aus Wäldern, Flüssen, Gebirgen und Nordseestränden. Es hat über 2 Jahrtausende Geschichte. Berlin, die Hauptstadt, beherbergt Kunst und Nachtleben, das Brandenburger Tor und viele Sehenswürdigkeiten im Zusammenhang mit dem Zweiten Weltkrieg. München ist bekannt für sein Oktoberfest und seine Bierhallen, darunter das Hofbräuhaus aus dem 16. Jahrhundert. Frankfurt mit seinen Hochhäusern beherbergt die Europäische Zentralbank.</string>
+
+</resources>
